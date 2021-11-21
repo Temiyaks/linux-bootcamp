@@ -58,7 +58,24 @@ MANAGEMENT TASKS
 
 In management task we can run many commands like start, stop and delete.
 
-To delete resource group we used the command line az group delete -- name <state the name of the resource group>
+To delete resource group we used the command line az group delete -- name <state the name of the resource group.
+
+
+
+LAB 3
+
+AZURE DISKS MANAGEMENT WITH AZURE CLI
+
+INTRODUCTION
+
+Azure virtual machines (VMs) use disks to store the operating system, applications, and data.
+
+I learnt that when a azure virtual manchine is created, two disks is automatically attched to it .
+
+- Operating system disks
+
+- Temporary disks
+
 
 
 
